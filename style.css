@@ -6,6 +6,11 @@
 body{
     background-color: peachpuff;
 }
+h1{
+    text-align: center;
+    margin-top: 3.5em;
+    color: #111111;
+}
 .container{
    /* border: 1px solid black; */
    width: 90%;
